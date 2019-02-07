@@ -10,5 +10,5 @@ def my_collect(array)
     end
   end
 # Return the new/modified array!
-  array
+  new_collection
 end
